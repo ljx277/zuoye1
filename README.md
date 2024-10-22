@@ -8,13 +8,9 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api?username=ljx277&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 工作经验
-1. **公司名称** （起止日期）
-   - 职位：Your Position
-   - 负责内容：工作内容描述
-
-2. **公司名称** （起止日期）
-   - 职位：Your Position
-   - 负责内容：工作内容描述
+1. **召唤师峡谷** （起止日期）
+   - 职位：adc
+   - 负责内容：在下路打钱
 
 ## 技能
   -我是金铲铲大师
