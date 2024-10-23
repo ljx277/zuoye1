@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm 李嘉欣</h1>
-<h3 align="center">非常喜欢游泳健身！除此之外，我也是个美食爱好者，平时喜欢研究各种美食，同时也对写代码充满了兴趣</h3>
+<h3 align="center">我是岭南大学的学生，读的是Mscct.非常喜欢游泳健身！除此之外，我也是个美食爱好者，平时喜欢研究各种美食，同时也对写代码充满了兴趣</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ljx277&label=Profile%20views&color=0e75b6&style=flat" alt="ljx277" /> </p>
 
