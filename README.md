@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋, I'm 李嘉欣</h1>
-<h3 align="center">我是岭南大学的学生，读的是Mscct.非常喜欢游泳健身！除此之外，我也是个美食爱好者，平时喜欢研究各种美食，同时也对写代码充满了兴趣</h3>
+<h1 align="center">Hi 👋, I'm Lijiaxin</h1>
+<h3 align="center">I am a student at Lingnan University, studying Mscct. I really enjoy swimming and fitness! In addition, I am also a foodie who loves to explore various cuisines, and I have a keen interest in coding as well.
+
+</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ljx277&label=Profile%20views&color=0e75b6&style=flat" alt="ljx277" /> </p>
 
@@ -22,15 +24,15 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ljx277&show_icons=true&locale=en&layout=compact" alt="ljx277" /></p>
 
 
-## 技能
-  -我是金铲铲大师
-  -精通：LOL
+## Skill
+  -I am the master of the golden shovel.
+  -Proficiency：LOL
 
-## 社交链接
+## Social link
 - GitHub: [Your GitHub Profile](https://github.com/ljx277)
 - LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/ljx277)
 
-- ## 我的工具
+- ## My tools
 [![Readme Card](https://github-readme-stats.vercel.app/api?username=ljx277&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
 
 
